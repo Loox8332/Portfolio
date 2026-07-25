@@ -13,63 +13,52 @@
 ---
 
 ## About
-
-<img align="right" src="Photos/File_004.png" alt="Lucas Bryan" width="200" style="border-radius: 0px;"/>
-<p style="text-align: justify;">
-I’m an engineering student who specialises in robotics, in the intersection of mechanical design and software control. Over the last few years, I have transitioned from academic theory into complex hands-on development, working with everything from ROS2 and custom circuit assemblies to deep learning models. My professional priority is to build intelligent, reactive hardware that bridges the gap between digital theory and real-world success.
-</p>
+<table>
+  <tr>
+    <td width="60%">
+      <p style="text-align: justify;">I’m an engineering student who specialises in robotics, in the intersection of mechanical design and software control. Over the last few years, I have transitioned from academic theory into complex hands-on development, working with everything from ROS2 and custom circuit assemblies to deep learning models. My professional priority is to build intelligent, reactive hardware that bridges the gap between digital theory and real-world success.</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="Photos/File_004.png" alt="Lucas Bryan" width="100000000" style="border-radius: 0px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Projects
 
-### [Autonomous SLAM Monocular Depth Mapper](link-to-repo)
-> **Tech Stack:** C++ / Python / OpenCV *(Edit as needed)*
+### [Six DOF Arm with Adaptive Pick and Place through OpenCV](link-to-repo)
+> **Tech Stack:** Parametric modelling / ROS / Python / Machine Learning
 
-<div align="center">
-  <img src="Photos/File_004.png" alt="SLAM Mapping Demo" width="650"/>
-  <br>
-  <em>Real-time depth mapping visualization and feature tracking.</em>
-</div>
+* **Overview:** 
+* **Key Features:** 
+* **Challenges:** 
 
-* **Overview:** An autonomous mapping system utilizing monocular depth estimation to navigate and map environments.
-* **Key Features:** *(Add a bullet point about the mapping algorithm or hardware integration)*
-* **Challenges:** *(Add a brief note on how you optimized performance or solved a specific mathematical/logic hurdle)*
+### [Six DOF Arm with Adaptive Pick and Place through OpenCV](link-to-repo)
+> **Tech Stack:** Parametric modelling / ROS / Python / Machine Learning
 
-<br>
-
-### [Autonomous SLAM Monocular Depth Mapper](link-to-repo)
-> **Tech Stack:** C++ / Python / OpenCV *(Edit as needed)*
-
-<div align="center">
-  <img src="path/to/your/slam-demo.gif" alt="SLAM Mapping Demo" width="650"/>
-  <br>
-  <em>Real-time depth mapping visualization and feature tracking.</em>
-</div>
-
-* **Overview:** An autonomous mapping system utilizing monocular depth estimation to navigate and map environments.
-* **Key Features:** *(Add a bullet point about the mapping algorithm or hardware integration)*
-* **Challenges:** *(Add a brief note on how you optimized performance or solved a specific mathematical/logic hurdle)*
+* **Overview:** 
+* **Key Features:** 
+* **Challenges:** 
 
 ---
 
 ## Experience & Research
 
-### Manufacturing Research Project | The Royal Mint
-<div align="center">
-  <img src="path/to/your/mint-project-image.jpg" alt="Manufacturing Research" width="500"/>
-</div>
+### [Royal Mint](link-to-repo)
+> **Tech Stack:** Parametric modelling / ROS / Python / Machine Learning
 
-* **Duration:** 2022 – 2023
-* Collaborated on a manufacturing research initiative to analyze and optimize production processes.
-* *(Add a bullet point detailing your specific technical contributions or data analysis)*
+* **Overview:** 
+* **Key Features:** 
+* **Challenges:** 
 
 ---
 
 ## Skills & Tools
 
-* **Software Engineering:** Python, C++, *(Add other languages/frameworks)*
-* **Hardware & Design:** Fusion 360, Microcontroller programming, 3D Printing (Prototyping & Stress Testing), Circuit Architecture
-* **Hobbies that build skills:** Console modding & homebrew development, DSLR photography (manual lens calibration), Logistics & route mapping for alpine trekking.
+* **Software Engineering:** 
+* **Hardware & Design:** 
+* **Hobbies that build skills:** 
 
 ---
