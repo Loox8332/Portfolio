@@ -4,30 +4,29 @@
 
 **Mechanical & Electrical Engineering | Robotics, Automation & Software**
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lucasmbryan/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-green)](mailto:lucasbry10@gmail.com)
-
-<div align="center">
-  <img src="Photos/File_004.png" alt="Me giving a presentation" width="450"/>
-  <br>
-</div>
 
 </div>
 
 ---
 
 ## About
+
+<img align="right" src="Photos/File_004.png" alt="Lucas Bryan" width="200" style="border-radius: 10px;"/>
+
 I’m an engineering student who specialises in robotics, in the intersection of mechanical design and software control. Over the last few years, I have transitioned from academic theory into complex hands-on development, working with everything from ROS2 and custom circuit assemblies to deep learning models. My professional priority is to build intelligent, reactive hardware that bridges the gap between digital theory and real-world success.
 
 ---
 
 ## Projects
 
-### [Six DOF arm with Adaptive pick and place](link-to-repo)
-> **Tech Stack:** ROS / Parametric modelling / Python / OpenCV
+### [Autonomous SLAM Monocular Depth Mapper](link-to-repo)
+> **Tech Stack:** C++ / Python / OpenCV *(Edit as needed)*
 
 <div align="center">
-  <img src="Photos/File_004.png" alt="SLAM Mapping Demo" width="650"/>
+  <img src="https://images.unsplash.com/photo-1542038784456-1ea8e935640e?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cGhvdG9ncmFwaHl8ZW58MHx8MHx8fDA%3D" alt="SLAM Mapping Demo" width="650"/>
   <br>
   <em>Real-time depth mapping visualization and feature tracking.</em>
 </div>
