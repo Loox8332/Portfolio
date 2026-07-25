@@ -7,6 +7,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lucasmbryan/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-green)](mailto:lucasbry10@gmail.com)
 
+<div align="center">
+  <img src="photos/File_004.png" alt="Me giving a presentation" width="650"/>
+  <br>
+</div>
+
 </div>
 
 ---
