@@ -18,11 +18,11 @@ I’m an engineering student who specialises in robotics, in the intersection of
 
 ## Projects
 
-### [Autonomous SLAM Monocular Depth Mapper](link-to-repo)
-> **Tech Stack:** C++ / Python / OpenCV *(Edit as needed)*
+### [Six DOF arm with Adaptive pick and place](link-to-repo)
+> **Tech Stack:** ROS / Parametric modelling / Python / OpenCV
 
 <div align="center">
-  <img src="path/to/your/slam-demo.gif" alt="SLAM Mapping Demo" width="650"/>
+  <img src="photos/File_004.png" alt="SLAM Mapping Demo" width="650"/>
   <br>
   <em>Real-time depth mapping visualization and feature tracking.</em>
 </div>
