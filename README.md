@@ -27,7 +27,7 @@ I’m an engineering student who specialises in robotics, in the intersection of
 > **Tech Stack:** ROS / Parametric modelling / Python / OpenCV
 
 <div align="center">
-  <img src="photos/File_004.png" alt="SLAM Mapping Demo" width="650"/>
+  <img src="Photos/File_004.png" alt="SLAM Mapping Demo" width="650"/>
   <br>
   <em>Real-time depth mapping visualization and feature tracking.</em>
 </div>
