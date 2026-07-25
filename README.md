@@ -14,9 +14,10 @@
 
 ## About
 
-<img align="right" src="Photos/File_004.png" alt="Lucas Bryan" width="225" style="border-radius: 0px;"/>
-
+<img align="right" src="Photos/File_004.png" alt="Lucas Bryan" width="200" style="border-radius: 0px;"/>
+<p style="text-align: justify;">
 I’m an engineering student who specialises in robotics, in the intersection of mechanical design and software control. Over the last few years, I have transitioned from academic theory into complex hands-on development, working with everything from ROS2 and custom circuit assemblies to deep learning models. My professional priority is to build intelligent, reactive hardware that bridges the gap between digital theory and real-world success.
+</p>
 
 ---
 
