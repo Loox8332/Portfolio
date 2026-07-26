@@ -68,7 +68,7 @@ I’m an engineering student who specialises in robotics, in the intersection of
 
 ### Overview
 
-* Leadership of a six-engineer team to design a suitable solar boat electrification system to tackle energy poverty in the rural Amazon, with the goal of replacing existing gasoline powered boats. A scale model for presentation was also developed.
+* Leadership of a six-engineer team to design a suitable solar boat electrification system to tackle energy poverty in the rural Amazon, with the goal of replacing existing gasoline powered boats for under £3000. A scale model for presentation was also developed.
 
 * My key role involved heavy project management alongside being the lead system engineer. My focus was on implementation of a custom MPPT synchronous buck converter from scratch using a modified Perturb & Observe algorithm. This system was tied in with a BLDC drivetrain and reached a max efficiency of 96%.
 
