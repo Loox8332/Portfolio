@@ -26,7 +26,7 @@ I’m an engineering student who specialises in robotics, in the intersection of
 
 ## Projects
 
-### [Six DOF Arm with Adaptive Pick and Place through OpenCV](no-link-rn)
+### [Six DOF Arm with Adaptive Pick and Place through OpenCV](https://github.com/Loox8332/Portfolio)
 
 > **Tech Stack:** Parametric modelling / ROS / Python / Machine Learning
 
@@ -53,7 +53,7 @@ I’m an engineering student who specialises in robotics, in the intersection of
   <img src="Photos/RobotROS.png" alt="ROS simulation of simplified URDF Robot" width="55%" />
 </div>
 
-### [Leadership & Systems Engineer | Solar-Integrated Power System & Drivetrain](no-link-rn)
+### [Leadership & Systems Engineer | Solar-Integrated Power System & Drivetrain](https://github.com/Loox8332/Portfolio)
 
 > **Tech Stack:** MATLAB & Simulink / Perturb & Observe (P&O) MPPT / Fusion 360 FEA / BLDC Control / System block diagram design
 
@@ -73,7 +73,7 @@ I’m an engineering student who specialises in robotics, in the intersection of
   <img src="Photos/Render.png" alt="Render of our proposed design" width="68%" />
 </div>
 
-### [SLAM Monocular Depth Mapper using MDE Models & ROS](no-link-rn)
+### [SLAM Monocular Depth Mapper using MDE Models & ROS](https://github.com/Loox8332/Portfolio)
 
 > **Tech Stack:** 
 
@@ -92,7 +92,7 @@ I’m an engineering student who specialises in robotics, in the intersection of
   <img src="Photos/DepthMapping.jpg" alt="Working depth mapping algorithm using RGB camera" width="98%" vspace="0" />
 </div>
 
-### [Automated Productitivy Manager](no-link-rn)
+### [Automated Productitivy Manager](https://github.com/Loox8332/Portfolio)
 
 > **Tech Stack:** 
 
@@ -109,7 +109,7 @@ I’m an engineering student who specialises in robotics, in the intersection of
 
 ## Experience & Research
 
-### [Royal Mint | 17th Century Manufacturing Research Project](no-link-rn)
+### [Royal Mint | 17th Century Manufacturing Research Project](https://github.com/Loox8332/Portfolio)
 > **Tech Stack:** 
 
 <div style="text-align: justify; padding-right: 00px;">
