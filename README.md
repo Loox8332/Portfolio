@@ -2,7 +2,7 @@
 
 # **Lucas Bryan**
 
-### Mechanical & Electrical Engineering | Robotics, Automation & Software
+### Robotic Engineer | Automation, Robotics, Electronics & Software
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lucasmbryan/)
@@ -15,7 +15,7 @@
 ## About
 
 <div align="center">
-  <img src="Photos/File_004.png" alt="Lucas Bryan" width="80%" vspace="20" />
+  <img src="Photos/Me.png" alt="Lucas Bryan" width="80%" vspace="20" />
 </div>
 
 <p style="text-align: justify;">
@@ -30,14 +30,27 @@ I’m an engineering student who specialises in robotics, in the intersection of
 
 > **Tech Stack:** Parametric modelling / ROS / Python / Machine Learning
 
-<div style="text-align: justify; padding-right: 20px;">
+<div style="text-align: justify; padding-right: 00px;">
 
-* **Overview:** Text here
-* **Key Features:** Text here
-* **Challenges:** Text here
+### Overview
+
+* Design, build, and simulation of a six DOF robotic arm focused on high kinematic accuracy and weight reduction. I developed the entire stack, from 3D modelling in Fusion 360 alongside 3D printing, custom circuit setups for power distribution and motor control, to simulation in ROS2/Gazebo with Python. 
+
+  * NEMA 17 motors used, with belt driven gear reductions to save weight and reduce costs. Open loop control implented.
+
+### Challenges
+* Power management was troublesome, with six NEMA 17 motors, power draw is in the 150-200W range depending on arm load. I solved this by writing an adaptive power management script to iteratively reduce the power that each motor needs to run at full capacity. Reduction of power use by ~34% increasing overall load capacity.
+
+* Reduction of weight while maintaining strength under load. Solved through iterative design using FEA tools to optimise part infill percent.
+
+### Goal & Future work
+* Adaptive pick and place implementation through OpenCV. Current development focuses on an interactive control panel to speed up development.
+
+</div>
 
 <div align="center">
-  <img src="Photos/File_004.png" alt="Lucas Bryan" width="40%" vspace="0" />
+  <img src="Photos/Robot.jpeg" alt="Left Image Description" width="37.7%" />
+  <img src="Photos/RobotROS.png" alt="Right Image Description" width="48%" />
 </div>
 
 ### [Leadership & Systems Engineer | Solar-Integrated Power System & Drivetrain](link-to-repo-here)
@@ -87,6 +100,11 @@ I’m an engineering student who specialises in robotics, in the intersection of
 
 * **Software Engineering:** 
 * **Hardware & Design:** 
-* **Hobbies that build skills:** 
+
+---
+
+## Me
+
+* **Hobbies:**
 
 ---
