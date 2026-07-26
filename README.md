@@ -2,7 +2,7 @@
 
 # **Lucas Bryan**
 
-### Robotic Engineer | Automation, Robotics, Electronics & Software
+### Robotics Engineer | Automation, Robotics, Electronics & Software
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lucasmbryan/)
@@ -26,7 +26,7 @@ I’m an engineering student who specialises in robotics, in the intersection of
 
 ## Projects
 
-### [Six DOF Arm with Adaptive Pick and Place through OpenCV](link-to-repo-here)
+### [Six DOF Arm with Adaptive Pick and Place through OpenCV](no-link-rn)
 
 > **Tech Stack:** Parametric modelling / ROS / Python / Machine Learning
 
@@ -34,7 +34,7 @@ I’m an engineering student who specialises in robotics, in the intersection of
 
 ### Overview
 
-* Design, build, and simulation of a six DOF robotic arm focused on high kinematic accuracy and weight reduction. I developed the entire stack, from 3D modelling in Fusion 360 alongside 3D printing, custom circuit setups for power distribution and motor control, to simulation in ROS2/Gazebo with Python. 
+* Design, build, and simulation of a six DOF robotic arm focused on high kinematic accuracy and weight reduction. I developed the entire stack, from 3D modelling in Fusion 360, 3D printing from scratch, custom circuit setups for power distribution and motor control, to simulation in ROS2/Gazebo with Python. 
 
   * NEMA 17 motors used, with belt driven gear reductions to save weight and reduce costs. Open loop control implented.
 
@@ -49,62 +49,96 @@ I’m an engineering student who specialises in robotics, in the intersection of
 </div>
 
 <div align="center">
-  <img src="Photos/Robot.jpg" alt="My Robot" width="37.7%" />
-  <img src="Photos/RobotROS.png" alt="ROS simulation of simplified URDF Robot" width="48%" />
+  <img src="Photos/Robot.jpg" alt="My Robot" width="43.1%" />
+  <img src="Photos/RobotROS.png" alt="ROS simulation of simplified URDF Robot" width="55%" />
 </div>
 
-### [Leadership & Systems Engineer | Solar-Integrated Power System & Drivetrain](link-to-repo-here)
+### [Leadership & Systems Engineer | Solar-Integrated Power System & Drivetrain](no-link-rn)
 
-> **Tech Stack:** 
+> **Tech Stack:** MATLAB & Simulink / Perturb & Observe (P&O) MPPT / Fusion 360 FEA / BLDC Control / System block diagram design
 
-* **Overview:** 
-* **Key Features:** 
-* **Challenges:** 
+<div style="text-align: justify; padding-right: 00px;">
+
+### Overview
+
+* d
+
+### Challenges
+* d
+
+</div>
 
 <div align="center">
-  <img src="Photos/File_004.png" alt="Lucas Bryan" width="40%" vspace="0" />
+  <img src="Photos/ScaleModel.jpg" alt="Our scale model drivetrain" width="28.75%" />
+  <img src="Photos/Render.png" alt="Render of our proposed design" width="68%" />
 </div>
 
-### [SLAM Monocular Depth Mapper using MDE Models & ROS](link-to-repo-here)
+### [SLAM Monocular Depth Mapper using MDE Models & ROS](no-link-rn)
 
 > **Tech Stack:** 
 
-* **Overview:** 
-* **Key Features:** 
-* **Challenges:** 
+<div style="text-align: justify; padding-right: 00px;">
+
+### Overview
+
+* d
+
+### Challenges
+* d
+
+</div>
 
 <div align="center">
-  <img src="Photos/File_004.png" alt="Lucas Bryan" width="40%" vspace="0" />
+  <img src="Photos/DepthMapping.jpg" alt="Working depth mapping algorithm using RGB camera" width="98%" vspace="0" />
 </div>
 
-### [Automated Productitivy Manager](link-to-repo-here)
+### [Automated Productitivy Manager](no-link-rn)
 
 > **Tech Stack:** 
 
-* **Overview:** 
-* **Key Features:** 
-* **Challenges:** 
+<div style="text-align: justify; padding-right: 00px;">
+
+### Overview
+
+* d
+
+### Challenges
+* d
+
+</div>
 
 ## Experience & Research
 
-### [Royal Mint | 17th Century Manufacturing Research Project](link-to-repo)
+### [Royal Mint | 17th Century Manufacturing Research Project](no-link-rn)
 > **Tech Stack:** 
 
-* **Overview:** 
-* **Key Features:** 
-* **Challenges:** 
+<div style="text-align: justify; padding-right: 00px;">
+
+### Overview
+
+* d
+
+### Challenges
+* d
+
+</div>
 
 ---
 
 ## Skills & Tools
 
-* **Software Engineering:** 
-* **Hardware & Design:** 
+* d
 
 ---
 
 ## Me
 
+* **Me:**
 * **Hobbies:**
+
+<div align="center">
+  <img src="Photos/Bird.jpg" alt="White throated king fisher" width="28.75%" />
+  <img src="Photos/Bird.jpg" alt="Me on a hike!" width="68%" />
+</div>
 
 ---
