@@ -15,7 +15,7 @@
 ## About
 
 <div align="center">
-  <img src="Photos/Me.png" alt="Lucas Bryan" width="80%" vspace="20" />
+  <img src="Photos/Me.jpg" alt="Lucas Bryan" width="80%" vspace="20" />
 </div>
 
 <p style="text-align: justify;">
@@ -49,8 +49,8 @@ I’m an engineering student who specialises in robotics, in the intersection of
 </div>
 
 <div align="center">
-  <img src="Photos/Robot.jpeg" alt="Left Image Description" width="37.7%" />
-  <img src="Photos/RobotROS.png" alt="Right Image Description" width="48%" />
+  <img src="Photos/Robot.jpg" alt="My Robot" width="37.7%" />
+  <img src="Photos/RobotROS.png" alt="ROS simulation of simplified URDF Robot" width="48%" />
 </div>
 
 ### [Leadership & Systems Engineer | Solar-Integrated Power System & Drivetrain](link-to-repo-here)
