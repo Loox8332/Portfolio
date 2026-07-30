@@ -49,8 +49,8 @@ I’m an engineering student who specialises in robotics, in the intersection of
 </div>
 
 <div align="center">
-  <img src="Photos/Robot.jpg" alt="Constructed Robot" width="43.1%" />
-  <img src="Photos/RobotROS.png" alt="ROS simulation of simplified URDF Robot" width="55%" />
+  <img src="Photos/Robot.gif" alt="Constructed Robot" width="60%" />
+  <img src="Photos/RobotROS.png" alt="ROS simulation of simplified URDF Robot" width="32.25%" />
   <figcaption><i>Left: Constructed Robot, Right: ROS simulation of simplified URDF</i></figcaption>
 </div>
 
